@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-apt-get install -y php-zmq
+apt-get install -y php7.2-zmq
